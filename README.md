@@ -1,3 +1,3 @@
 # javascript-projects
 
-- To-do List[https://github.com/nurgulkaya/javascript-projects/tree/master/todo]
+[https://github.com/nurgulkaya/javascript-projects/tree/master/todo](To-do List)
